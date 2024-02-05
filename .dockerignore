@@ -1,0 +1,6 @@
+venv/
+README.md
+.idea/
+Dockerfile
+.dockerignore
+requests.http
